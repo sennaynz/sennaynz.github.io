@@ -132,6 +132,7 @@ a {
   align-items: start;
   grid-template-columns: 2fr 3fr;
   grid-gap: 15px;
+  width: 100%;
 }
 
 .container-main .container-details .container-projects .container-box .banner {
