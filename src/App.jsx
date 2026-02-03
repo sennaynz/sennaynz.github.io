@@ -86,7 +86,7 @@ function App() {
           <div className="container-projects">
             <h1 className="su-title">Projetos</h1>
             <div className="container-box">
-              <img src="/banner.jpg" alt="" className="banner" />
+              <img src="/banner.png" alt="" className="banner" />
               <setion className="details">
                 <h2 className="title">
                   Lorem, ipsum dolor.{" "}
@@ -99,7 +99,7 @@ function App() {
               </setion>
             </div>
             <div className="container-box">
-              <img src="/banner.jpg" alt="" className="banner" />
+              <img src="/banner.png" alt="" className="banner" />
               <setion className="details">
                 <h2 className="title">
                   Lorem, ipsum dolor.{" "}
@@ -112,7 +112,7 @@ function App() {
               </setion>
             </div>
             <div className="container-box">
-              <img src="/banner.jpg" alt="" className="banner" />
+              <img src="/banner.png" alt="" className="banner" />
               <setion className="details">
                 <h2 className="title">
                   Lorem. <i className="fas fa-arrow-up-right-from-square"></i>
