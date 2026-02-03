@@ -49,7 +49,7 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="mailto:sennaynz@gmail.com">
+              <a href="mailto:contact.sennaynz@gmail.com">
                 <i className="fas fa-envelope"></i>
               </a>
             </li>
